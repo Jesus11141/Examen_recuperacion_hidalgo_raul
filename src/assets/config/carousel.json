@@ -1,0 +1,65 @@
+{
+    "data": [
+        {
+            "id": "1000",
+            "code": "f230fh0g3",
+            "name": "Guantes",
+            "description": "Guantes",
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/df845283-36ad-4bd0-9741-8599b410fb69/guantes-de-portero-vapor-grip3-Cng0Lk.png",
+            "price": 20,
+            "category": "Accessories",
+            "quantity": 24,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5
+        },
+        {
+            "id": "1001",
+            "code": "nvklal433",
+            "name": "Canilleras",
+            "description": "Canilleras",
+            "image": "https://assets.adidas.com/images/w_940,f_auto,q_auto/574f6a7bd8aa474781d8f58f235b2411_9366/IA0841_01_standard.jpg",
+            "price": 13.90,
+            "category": "Accessories",
+            "quantity": 61,
+            "inventoryStatus": "OUTOFSTOCK",
+            "rating": 4
+        },
+        {
+            "id": "1002",
+            "code": "zz21cz3c1",
+            "name": "Balon",
+            "description": "Balon futbol",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRssI3AanIeVLGP4NeQ8gt-Yk9Q0CCG8r3ZxA&s",
+            "price": 109,
+            "category": "Accessories",
+            "quantity": 2,
+            "inventoryStatus": "LOWSTOCK",
+            "rating": 3
+        },
+        {
+            "id": "1003",
+            "code": "244wgerg2",
+            "name": "Bolso",
+            "description": "Bolso deportivo",
+            "image": "https://todosobrecamisetas.com/wp-content/uploads/Mochilas-1021x527.jpg",
+            "price": 89,
+            "category": "Accessories",
+            "quantity": 25,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5
+        },
+        {
+            "id": "1004",
+            "code": "h456wer53",
+            "name": "pupos",
+            "description": "pupos",
+            "image": "https://guayaquilpupos.com/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-27-at-21.14.50.jpeg",
+            "price": 150,
+            "category": "Accessories",
+            "quantity": 73,
+            "inventoryStatus": "INSTOCK",
+            "rating": 4
+        }
+      
+    ]
+}
